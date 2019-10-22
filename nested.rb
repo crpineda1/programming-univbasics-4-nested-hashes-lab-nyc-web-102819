@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-p grace_hopper[]
+p programmer_hash(grace_hopper)
 
 end
 
